@@ -1,0 +1,9 @@
+Package: daniel.uiswipe
+Name: UISwipe
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Swipe out your UI
+Maintainer: daniel
+Author: daniel
+Section: Tweaks
